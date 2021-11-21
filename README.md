@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**AriSales/AriSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1>Olá, me chamo Ari Sales! 🍇</h1>
+<img src="Imagens/undraw_hacker_mind_6y85.png" width="25px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
