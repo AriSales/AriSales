@@ -1,5 +1,5 @@
 <h1>Olá, me chamo Ari Sales! 🍇</h1>
-<img src="Imagens/undraw_hacker_mind_6y85.png" width="250px">
+<img src="Imagens/gengar.gif" width="250px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
