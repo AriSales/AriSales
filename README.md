@@ -1,5 +1,7 @@
-<img src="Imagens/gengar.gif" width="250px" align="center">
-<h1 align="center">Olá, me chamo Ari Sales! 🍇</h1>
+<div align="center">
+<img src="Imagens/gengar.gif" width="250px">
+<h1>Olá, me chamo Ari Sales! 🍇</h1>
+</div>
 
 ## 🧃 Sobre Mim:
 
