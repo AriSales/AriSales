@@ -20,8 +20,8 @@
 <h2>🧃 Contatos:</h2>
 
 <p align="left">
-    <a href="https://www.instagram.com/arineto3/" target="_Blank"> <img src="Imagens/LogoInstagram.png" width="30px"><a>
-    <a href="https://www.linkedin.com/in/arisalesneto/" target="_Blank"> <img src="Imagens/LogoLinkedin.png" width="30px"><a>
+    <a href="https://www.instagram.com/arineto3/" target="_blank"> <img src="Imagens/LogoInstagram.png" width="30px"><a>
+    <a href="https://www.linkedin.com/in/arisalesneto/" target="_blank"> <img src="Imagens/LogoLinkedin.png" width="30px"><a>
 </p>
 
 <h2>🧃 Estatísticas:</h2>
