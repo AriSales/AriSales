@@ -3,6 +3,8 @@
 <h1>🍇 Oi, eu sou o Ari!</h1>
 </div>
 
+<br>
+
 <h2>🧃 Sobre Mim:</h2>
 
 <ul>
