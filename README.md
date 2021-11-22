@@ -18,9 +18,15 @@
 <h2>🧃 Contatos:</h2>
 
 <p align="left">
-    <a href="https://www.instagram.com/arineto3/" target="_Blank"> <img src="Imagens/LogoInstagram.png" width="30px"><a>
-    <a href="https://www.linkedin.com/in/arisalesneto/" target="_Blank"> <img src="Imagens/LogoLinkedin.png" width="30px"><a>
+    <a href="https://www.instagram.com/arineto3/" target="_Blank"> <img src="Imagens/LogoInstagram.png" width="30px"></a>
+    <a href="https://www.linkedin.com/in/arisalesneto/" target="_Blank"> <img src="Imagens/LogoLinkedin.png" width="30px"></a>
 </p>
+ 
+<h2>🧃 Trybe:</h2>
+        <ul>
+    <li><a href="https://github.com/AriSales/Exercicios_Trybe">Exercícios.</a></li>
+    <li><a href="https://github.com/AriSales/Projetos_Trybe">Projetos.</a></li>
+        </ul>
 
 <h2>🧃 Estatísticas:</h2>
 
