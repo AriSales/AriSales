@@ -29,3 +29,6 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AriSales&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriSales&layout=compact&langs_count=7&theme=shades-of-purple"/>  
 </div>
+    
+<h2>🧃 Volte sempre!</h2>
+<img src="Imagens/gengar.gif" width="250px">
