@@ -22,7 +22,7 @@
  
 <h2>🧃 Trybe:</h2>
         <ul>
-    <li><a href="https://github.com/AriSales/Exercicios_Trybe">Exercícios.</a></li>
+    <li><a href="https://github.com/AriSales/Exercicios.Trybe">Exercícios.</a></li>
     <li><a href="https://github.com/AriSales/Projetos_Trybe">Projetos.</a></li>
         </ul>
 
