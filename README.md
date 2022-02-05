@@ -9,14 +9,17 @@
     <em>
         <li> 🟣 Tenho <strong>19 anos</strong> e moro no <strong>interior do Rio de Janeiro</strong></li>
         <li> 🟣 Estudo desenvolvimento web na <a href="https://www.betrybe.com/" target="_Blank">Trybe</a></li>
-        <a href="https://www.instagram.com/arineto3/" target="_Blank"> <img src="Imagens/LogoInstagram.png" width="30px"></a>
-        <a href="https://www.linkedin.com/in/arisalesneto/" target="_Blank"> <img src="Imagens/LogoLinkedin.png" width="30px"></a>
     </em>
 </ul>
+
+<hr>
+<a href="https://www.instagram.com/arineto3/" target="_Blank"> <img src="Imagens/LogoInstagram.png" width="30px"></a>
+<a href="https://www.linkedin.com/in/arisalesneto/" target="_Blank"> <img src="Imagens/LogoLinkedin.png" width="30px"></a>
  
-<h2🍇Trybe:</h2>
+<h2>🍇Trybe:</h2>
         <ul>
             <li><a href="https://github.com/AriSales/exercise-tech-gallery">Exercícios.</a></li>
+            <li><a href="https://github.com/AriSales/exercise-tech-gallery">Projetos.</a></li>
         </ul>
 
 <h2>🍇Estatísticas:</h2>
