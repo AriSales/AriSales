@@ -1,5 +1,5 @@
 
-<h2>Idle Fish Game <a href="arisales.github.io/clickergamepage/" target="_Blank">0.0.1</a>/</h2>
+<h2>Idle Fish Game <a href="https://arisales.github.io/ClickerGamePage/" target="_Blank">0.0.1</a></h2>
 
 <h2>🍇Sobre Mim:</h2>
 
