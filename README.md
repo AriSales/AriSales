@@ -1,6 +1,5 @@
 <div align="center">
     <img src="Imagens/gengar.gif" width="200px">
-    <h1>Olá, eu sou o Ari 👋</h1>
 </div>
 
 <h2>🍇Sobre Mim:</h2>
@@ -13,17 +12,3 @@
 </ul>
 
 <hr>
-<a href="https://www.instagram.com/arineto3/" target="_Blank"> <img src="Imagens/LogoInstagram.png" width="30px"></a>
-<a href="https://www.linkedin.com/in/arisalesneto/" target="_Blank"> <img src="Imagens/LogoLinkedin.png" width="30px"></a>
- 
-<h2>🍇Trybe:</h2>
-        <ul>
-            <li><a href="https://github.com/AriSales/exercise-tech-gallery">Exercícios.</a></li>
-            <li><a href="https://github.com/AriSales/exercise-tech-gallery">Projetos.</a></li>
-        </ul>
-
-<h2>🍇Estatísticas:</h2>
-<div align="center">
-  <a href="https://github.com/AriSales">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AriSales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
