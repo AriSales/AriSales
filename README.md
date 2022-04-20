@@ -1,11 +1,11 @@
 
-<h2>Idle Fish Game <a href="https://arisales.github.io/ClickerGamePage/" target="_Blank">0.0.1</a></h2>
+<h2>🐟 Fisherman Simulator <a href="https://arisales.github.io/ClickerGamePage/" target="_Blank">0.0.1</a></h2>
 
 <h2>Sobre Mim:</h2>
 
 <ul>
     <em>
-        <li> Tenho <strong>19 anos</strong> e moro no <strong>interior do Rio de Janeiro</strong>.</li>
-        <li> Estudo desenvolvimento web fullstack na <a href="https://www.betrybe.com/" target="_Blank">Trybe</a></li>
+        <li> Tenho <strong>19 anos</strong> e moro no <strong>interior do Rio de Janeiro</strong>;</li>
+        <li> Estudo desenvolvimento web fullstack na <a href="https://www.betrybe.com/" target="_Blank">Trybe</a>.</li>
     </em>
 </ul>
