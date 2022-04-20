@@ -1,6 +1,5 @@
-<div align="center">
-    <img src="Imagens/gengar.gif" width="200px">
-</div>
+
+<h2>Idle Fish Game <a href="arisales.github.io/clickergamepage/" target="_Blank">0.0.1</a>/</h2>
 
 <h2>🍇Sobre Mim:</h2>
 
@@ -10,5 +9,3 @@
         <li> 🟣 Estudo desenvolvimento web fullstack na <a href="https://www.betrybe.com/" target="_Blank">Trybe</a></li>
     </em>
 </ul>
-
-<hr>
