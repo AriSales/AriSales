@@ -1,6 +1,3 @@
-
-<h2>🐟 Fisherman Simulator <a href="https://arisales.github.io/ClickerGamePage/" target="_Blank">0.0.1</a></h2>
-
 <h2>Sobre Mim:</h2>
 
 <ul>
