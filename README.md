@@ -1,8 +1,5 @@
 <h2 align="left">Olá 🤗, me chamo Ari Sales.</h2>
 <p align="left">
- 💻 Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe.</a>
-</p>
-<p align="left">
  📍 Moro em <a href="https://www.google.com/maps/place/Miracema,+State+of+Rio+de+Janeiro,+28460-000/@-21.419497,-42.1928372,14z/data=!3m1!4b1!4m5!3m4!1s0xbce1b5ec38a8a1:0x542c5b0775fe2572!8m2!3d-21.4164739!4d-42.2022675" target="_blank" rel="noreferrer">Miracema, Rio de Janeiro.</a>
 </p>
 <p align="left">
